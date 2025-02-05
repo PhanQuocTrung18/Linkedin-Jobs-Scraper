@@ -1,0 +1,79 @@
+/* Các style cho form tìm kiếm
+.job-search-form {
+    margin-bottom: 20px;
+  }
+  
+  .job-search-form div {
+    margin-bottom: 10px;
+  }
+  
+  .job-search-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .job-search-form input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+   */
+
+   .job-search-container {
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.search-btn {
+    background: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.search-btn:hover {
+    background: #0056b3;
+}
+
+.download-section {
+    margin-top: 20px;
+}
+
+.download-btn {
+    display: inline-block;
+    padding: 10px 15px;
+    background: #28a745;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.download-btn:hover {
+    background: #218838;
+}
