@@ -1,6 +1,6 @@
 # Linkedin-Jobs-Scraper
 
-![LinkedIn Jobs Scraper](assets/image.png)
+![image](https://github.com/user-attachments/assets/2c854cd1-ec6d-42d2-919a-e71f7c52e2a0)
 
 
 ## Giới thiệu
