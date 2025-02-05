@@ -30,5 +30,5 @@
 1. **Clone repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Linkedin-Jobs-Scraper.git
+   git clone [https://github.com/yourusername/Linkedin-Jobs-Scraper.git](https://github.com/PhanQuocTrung18/Linkedin-Jobs-Scraper.git)
    cd Linkedin-Jobs-Scraper
