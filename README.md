@@ -1,5 +1,6 @@
 # Linkedin-Jobs-Scraper
 
+![LinkedIn Jobs Scraper](assets/image.png)
 
 
 ## Giới thiệu
